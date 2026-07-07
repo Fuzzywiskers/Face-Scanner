@@ -1,3 +1,7 @@
 testing to see if I'm logged in the correct account on my local computer (for pushing)
 
 this is a test to see if VS code is working
+
+Hold on, I've never used git out of VS code before. Last one, I promise. I know this
+is making my commit log messy but this is my first real project that I'm making along
+side GIT (in my defense)
